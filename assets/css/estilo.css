@@ -1,0 +1,22 @@
+/*Estilos da página index.html*/
+.center {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+#menu li{
+    display: inline;
+    padding: 15px;
+}
+/*Estilos da página categoria.html*/
+
+
+/*Estilos da página noticias.html*/
+
+
+/*Estilos da página receitas.html*/
